@@ -4,7 +4,7 @@
 
 # Dê permissão de execução para este script ~~> chmod 777 generateSSL.sh (ou o nome que vc renomear ele)
 DOMAIN=backbefitsptech
-SUFIX=.hopto.org:8080
+SUFIX=.hopto.org
 APP_SERVER=localhost
 APP_PORT=8080
 APP_PROTOCOL=http #troque se nao for usar localhost
